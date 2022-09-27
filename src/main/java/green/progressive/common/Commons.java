@@ -3,6 +3,7 @@ package green.progressive.common;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
+import green.progressive.reporting.Loggers;
 
 
 public class Commons {
